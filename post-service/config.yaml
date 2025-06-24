@@ -1,0 +1,3 @@
+port: 3040
+jwtsecret: "secretkey"
+dbconnectionstring : "postgres://postgres:123456@localhost:5432/PostDb?sslmode=disable"
